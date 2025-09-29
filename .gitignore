@@ -1,0 +1,6 @@
+.venv
+workspace
+*.dot
+prviouscode.py
+anotherpyjoern.py
+__pycache__
